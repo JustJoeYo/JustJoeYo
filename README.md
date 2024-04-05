@@ -7,11 +7,7 @@
 
 - 🔭 I’m currently working on [catnip.solutions](https://github.com/JustJoeYo/catnip.solutions)
 
-- 🌱 I’m currently learning **Backend web development**
-
 - 👯 I’m looking to collaborate on [Unity Cheat](https://github.com/JustJoeYo/UnityCheat)
-
-- 🤝 I’m looking for help with [NodeJS Authentication](https://github.com/JustJoeYo/NodeJsAuth)
 
 - 👨‍💻 All of my projects are available at [https://justjoeyo.github.io/reactts/](https://justjoeyo.github.io/reactts/)
 

@@ -17,8 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://www.linkedin.com/in/joseph-samere-981a5b291/]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joseph (joe) samere" height="30" width="40" /></a>
-<a href="https://fb.com/joe samere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="joe samere" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/joseph-samere-981a5b291/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joseph (joe) samere" height="30" width="40" /></a>
+<a href="https://www.facebook.com/joe.samere/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="joe samere" height="30" width="40" /></a>
 <a href="https://instagram.com/joe.yoooo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joe.yoooo" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/justjoeprolly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="justjoeprolly" height="30" width="40" /></a>
 </p>

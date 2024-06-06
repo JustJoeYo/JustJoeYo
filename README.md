@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=justjoeyo" alt="justjoeyo" /></a> </p>
 
-- 🔭 I’m currently working on [catnip.solutions](https://github.com/JustJoeYo/catnip.solutions)
+- 🔭 I’m currently working on [catnip.solutions](https://github.com/JustJoeYo/catnip.solutions) & [stellaredge.club](https://stellaredge.club)
 
 - 👯 I’m looking to collaborate on [Unity Cheat](https://github.com/JustJoeYo/UnityCheat)
 
